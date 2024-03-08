@@ -17,4 +17,4 @@ most_ocurring_word = max(word_count, key=word_count.get)
 
 word_count[most_ocurring_word]
 
-print(f'The word that occurs the most in your text is {most_ocurring_word} and it occurs {word_count[word]}')
+print(f'The word that occurs the most in your text is {most_ocurring_word} and it occurs {word_count[word]} times.')

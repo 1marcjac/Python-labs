@@ -20,4 +20,4 @@ for char in user_input:
         #if its not, add it to the dictionary with a count of 1
         char_count[char] = 1 
 
-print("Character count:", char_count)
+print("The haracter counts for each letter are as followed:", char_count)

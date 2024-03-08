@@ -6,3 +6,8 @@
 # but try to do it using a list comprehension.
 
 word = "codingnomads"
+
+#use a list comprehension to create a list of individual letters
+letters_list = [letter for letter in word]
+
+print(letters_list)
