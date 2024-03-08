@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Python 201 - Procedural Programming
 
 These are the exercise labs for the second module of your CodingNomads Python Programming course.
+=======
+# Python 101 - Introduction To Programming
+
+These are the exercise labs for the first module of your CodingNomads Python Programming course.
+>>>>>>> e0d6f809ca05711f686d8ab1f9b60c057331e47f
 
 You should find this document after downloading the repository. This folder contains **your own copy** of all the labs that you'll work with and learn from. Complete the exercises locally on your computer in your text editor or IDE.
 
